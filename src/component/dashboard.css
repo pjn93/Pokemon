@@ -1,0 +1,49 @@
+
+.container{
+    height: 100vh;
+
+}
+
+.header{
+    background-color: #fff;
+    top: 0;
+    position: sticky;
+    z-index: 1;
+}
+.brand{
+    font-size: 2.3rem;
+    padding: 10;
+}
+.content {
+    padding: 24px;
+    margin-left: 200px;
+}
+.menu{
+    font-size: 20px;
+    margin-top: 10px;
+    height: 100vh;
+}
+.head{
+    display: flex;
+     justify-content: space-between;
+     flex-direction: row;
+      flex-wrap: wrap;
+}
+
+.h1{
+    display: flex;
+     flex-wrap:wrap;
+      flex-direction:row;
+       align-items:center;
+}
+
+.h2{
+    
+    display: flex;
+     flex-wrap:wrap;
+      flex-direction:row;
+       align-items:center;
+       width:300px;
+       justify-content: space-around;
+    }
+   
